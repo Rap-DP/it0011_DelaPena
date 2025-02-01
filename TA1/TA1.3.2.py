@@ -8,5 +8,5 @@ while i <= 5:
     while k <= i * 2 - 1:  
         print(i * 2 - 1, end="")
         k += 1
-    print("\n")  
+    print("")  
     i += 1
