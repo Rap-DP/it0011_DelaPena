@@ -4,7 +4,7 @@ age = input("Enter your age: ")
 contact = input("Enter your contact number: ")
 course = input("Enter your course: ")
 
-f = open("TFA1\\students.txt", "a")
+f = open("TFA2\\students.txt", "a")
 f.write("Last Name: " + l_name +"\n")
 f.write("First Name: " + f_name +"\n")
 f.write("Age: "+ age +"\n")
